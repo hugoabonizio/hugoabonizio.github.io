@@ -26,6 +26,7 @@
   },
   "scripts": {
     "build": "bundle exec jekyll build",
-    "test": "bundle exec htmlproof ./_site --verbose"
+    "test": "bundle exec htmlproof ./_site --verbose",
+    "start": "bundle exec jekyll serve --port 3000 --host 0.0.0.0 --config _config.yml,_config_dev.yml"
   }
 }
