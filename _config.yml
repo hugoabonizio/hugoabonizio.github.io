@@ -1,10 +1,11 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Hugo Abonizio
+bio: 'Ruby, Rails and other stuff...'
 
 # if it's an external image, update below for true
-external-image: false
-picture: 'assets/images/profile.jpg'
+external-image: true
+# picture: 'assets/images/profile.jpg'
+picture: '//avatars2.githubusercontent.com/u/1206395?v=3&s=460'
 
 url: http://hugoabonizio.github.io
 # your url: http://USERNAME.github.io
